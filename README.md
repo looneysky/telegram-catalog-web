@@ -10,3 +10,6 @@ playwright install-deps
 
 Поменяйте ссылку на API в app.py
 python3 app.py
+
+В благодарность можете засрать владельца tgvse.ru
+Возможно есть некоторые мелкие баги.
